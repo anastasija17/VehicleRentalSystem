@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMdHWmlDR4LEId29Ba5YlqqynLjns+kt0rM0qNmUF47/vOKoKOSjmBRTma/ZADWNopqsQ1Ausl5GWO4dGDujPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasija\\OneDrive\\Documents\\ProjectsVS\\VehicleRentalSystem\\VehicleRentalSystem\\VehicleRentalSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
