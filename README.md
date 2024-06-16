@@ -46,5 +46,6 @@ In addition to the user and the vehicle, this class also has the rental start da
 This class also has a function for printing rental information in relation to the type of vehicle and user, specific printing is done,
 the detailed implementation of which is given in the code, while only part of the Renting class is shown in the picture.
 
+![slika6](Images/R1.JPG)
 
 
