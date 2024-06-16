@@ -65,6 +65,10 @@ In the following pictures, you can see what information the program gives us for
 ![slika10](Images/Cargo.JPG)
 
 ## Conclusion
-This is a fairly simple system that, with an upgrade, can serve as the basis for a larger system.
+
+This is a fairly simple system that, with an upgrade, can serve as the basis for a larger system. 
+Also, the system does not check whether the initial rental date is before the rental end date and the actual vehicle return date,
+we considered that such checks are not necessary because data entry is not left to the user and the programmer takes care of it. 
+If there was a need to expand and improve this system, such checks would be necessary.
 
 
