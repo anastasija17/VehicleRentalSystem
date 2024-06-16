@@ -10,4 +10,4 @@ The entire system was created using object-oriented principles with the use of a
 This is an abstract class used to derive the other vehicle types in the system. This class stores the basic attributes set by the specification
 and has an abstract function for recalculating the insurance, which will later be predefined in each of the vehicle types.
 
-![slika1]{Images/VClassJPG.JPG}
+![slika1](Images/VClassJPG.JPG)
