@@ -64,4 +64,7 @@ In the following pictures, you can see what information the program gives us for
 ### 3. Layout of the cargo van rental console
 ![slika10](Images/Cargo.JPG)
 
+## Conclusion
+This is a fairly simple system that, with an upgrade, can serve as the basis for a larger system.
+
 
