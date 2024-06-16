@@ -23,5 +23,5 @@ The class also sets values ​​for the rental price for a long period of $15 a
 The Motorcycle class inherits the Vehicle class and implements an abstract function for calculating insurance. 
 The class also sets values ​​for the rental price for a long period of $10 and a short period of $15.
 
-![slika3](Images/MClass.JPG)
+![slika3](Images/MClassJPG.JPG)
 
