@@ -54,4 +54,11 @@ In order to easily check the correctness of the system operation, the values ​
 
 ![slika7](Images/ProgramClassJPG.JPG)
 
+## Appearance of the console when starting the program
+
+In the following pictures, you can see what information the program gives us for created users, vehicles and rentals.
+![slika8](Images/Car.JPG)
+![slika9](Images/Motorcycle.JPG)
+![slika10](Images/CargoVan.JPG)
+
 
