@@ -39,4 +39,12 @@ The attributes of ages and driving experience are used to calculate the insuranc
 
 ![slika5](Images/UserClass.JPG)
 
+## Renting Class
+
+The Renting Class is used to connect the User Class and the class of different types of Vehicles.
+In addition to the user and the vehicle, this class also has the rental start date, the rental end date, and the vehicle return date. 
+This class also has a function for printing rental information in relation to the type of vehicle and user, specific printing is done,
+the detailed implementation of which is given in the code, while only part of the Renting class is shown in the picture.
+
+
 
