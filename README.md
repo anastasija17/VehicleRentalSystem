@@ -16,4 +16,4 @@ and has an abstract function for recalculating the insurance, which will later b
 The car class inherits the vehicle class and implements an abstract function for calculating insurance.
 The class also sets values ​​for the rental price for a long period of $15 and a short period of $20.
 
-![slika2](Images/CClassJPG.JPG)
+![slika2](Images/CClass.JPG)
