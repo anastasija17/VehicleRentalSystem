@@ -28,6 +28,15 @@ The class also sets values ​​for the rental price for a long period of $10 a
 ## Cargo Van Class
 
 The Cargo Van class inherits the Vehicle class and implements an abstract function for calculating insurance.
-The class also sets values ​​for the rental price for a long period of $$0 and a short period of $50.
+The class also sets values ​​for the rental price for a long period of $40 and a short period of $50.
 
 ![slika4](Images/CaClass.JPG)
+
+## User Class
+
+This class is intended for creating users who will actually use the services of the car rental service. The user has attributes such as first name, last name, ages and driving experience. 
+The attributes of ages and driving experience are used to calculate the insurance price in some vehicle classes.
+
+![slika5](Images/UserClass.JPG)
+
+
