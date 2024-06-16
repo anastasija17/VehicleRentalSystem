@@ -58,7 +58,7 @@ In order to easily check the correctness of the system operation, the values ​
 
 In the following pictures, you can see what information the program gives us for created users, vehicles and rentals.
 ![slika8](Images/Car.JPG)
-![slika9](Images/Motorcycle.JPG)
-![slika10](Images/CargoVan.JPG)
+![slika9](Images/Motor.JPG)
+![slika10](Images/Cargo.JPG)
 
 
