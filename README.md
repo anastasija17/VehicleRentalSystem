@@ -54,11 +54,14 @@ In order to easily check the correctness of the system operation, the values ​
 
 ![slika7](Images/ProgramClassJPG.JPG)
 
-## Appearance of the console when starting the program
+## Layout of the console when starting the program
 
 In the following pictures, you can see what information the program gives us for created users, vehicles and rentals.
+### 1. Layout of the car rental console
 ![slika8](Images/Car.JPG)
+### 2. Layout of the motorcycle rental console
 ![slika9](Images/Motor.JPG)
+### 3. Layout of the cargo van rental console
 ![slika10](Images/Cargo.JPG)
 
 
