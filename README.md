@@ -13,7 +13,15 @@ and has an abstract function for recalculating the insurance, which will later b
 ![slika1](Images/VClassJPG.JPG)
 
 ## Car class
-The car class inherits the vehicle class and implements an abstract function for calculating insurance.
+The Car class inherits the Vehicle class and implements an abstract function for calculating insurance.
 The class also sets values ​​for the rental price for a long period of $15 and a short period of $20.
 
 ![slika2](Images/CClass.JPG)
+
+## Motorcycle class
+
+The Motorcycle class inherits the Vehicle class and implements an abstract function for calculating insurance. 
+The class also sets values ​​for the rental price for a long period of $10 and a short period of $15.
+
+![slika3](Images/MClass.JPG)
+
