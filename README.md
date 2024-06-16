@@ -25,3 +25,9 @@ The class also sets values ​​for the rental price for a long period of $10 a
 
 ![slika3](Images/MClassJPG.JPG)
 
+## Cargo Van Class
+
+The Cargo Van class inherits the Vehicle class and implements an abstract function for calculating insurance.
+The class also sets values ​​for the rental price for a long period of $$0 and a short period of $50.
+
+![slika4](Images/Cargo.JPG)
