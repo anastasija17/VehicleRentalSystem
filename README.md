@@ -48,4 +48,10 @@ the detailed implementation of which is given in the code, while only part of th
 
 ![slika6](Images/R1.JPG)
 
+## Program.cs
+Several vehicles of different types and several users have been created here, in order to illustrate the operation of the system. 
+In order to easily check the correctness of the system operation, the values ​​given in the task requirements were used.
+
+![slika7](Images/ProgramClassJPG.JPG)
+
 
